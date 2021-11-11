@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tools_2_0:items/emerald_armor_head"
+  }
+}

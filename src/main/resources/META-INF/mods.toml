@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="tools_2_0"
+version="0.1.0"
+displayName="Tools"
+credits="Meeep"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/meeep-mod"
+authors="Meeep"
+
+[[dependencies.tools_2_0]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
